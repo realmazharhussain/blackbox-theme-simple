@@ -1,0 +1,26 @@
+{
+    "name": "Simple Dark",
+    "comment": "A simple dark color scheme",
+    "use-theme-colors": true,
+    "foreground-color": "#dddddd",
+    "background-color": "#090300",
+    "palette": [
+        "#090300",
+        "#db2d20",
+        "#01a252",
+        "#f6d32d",
+        "#3584e4",
+        "#9141ac",
+        "#00cad2",
+        "#e9e9e9",
+        
+        "#3b3b3b",
+        "#f14a3e",
+        "#3bc983",
+        "#f8e45c",
+        "#62a0ea",
+        "#c061cb",
+        "#4fdde3",
+        "#ffffff"
+    ]
+}
